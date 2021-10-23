@@ -1,9 +1,13 @@
-@import './normalize.css';
-@import './default.css';
-@import './fonts.css';
-@import './header.css';
-@import './present.css';
-@import './advantage.css';
+@import "normalize.css";
+@import "swiper-bundle.min.css";
+@import "default.css";
+@import "fonts.css";
+@import "header.css";
+@import "present.css";
+@import "advantage.css";
+@import "portfolio.css";
+@import "modal.css";
+
 
 
 
